@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhisharma409&label=Profile%20views&color=0e75b6&style=flat" alt="subhisharma409" /> </p>
 
-- 🌱 I’m currently learning **DSA with JAVA**
+- 🌱 I’m currently learning **DSA with C++**
 
 - 📫 How to reach me **sharmasubhisharma@gmail.com**
 
